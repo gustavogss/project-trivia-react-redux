@@ -1,7 +1,7 @@
 # Projeto :rocket:
 Jogo Trivia - Perguntas e Respostas
 
-# Tecnologias e Ferramentas utilizadas :robot-face:
+# Tecnologias e Ferramentas utilizadas :robot:
 - VSCode
 - ReactJs
 - Redux
