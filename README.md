@@ -1,0 +1,13 @@
+# Projeto :rocket:
+Jogo Trivia - Perguntas e Respostas
+
+# Tecnologias e Ferramentas utilizadas :robot-face:
+- VSCode
+- ReactJs
+- Redux
+
+# Como utilizar :runner:
+- Baixar o repositório. Depois abra a pasta do projeto em um terminal
+- Digite yarn install para instalar as dependências 
+- Depois yarn start para executar o projeto
+  
