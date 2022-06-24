@@ -1,4 +1,4 @@
-# Projeto :rocket:
+# Projeto em grupo :rocket:
 Jogo Trivia - Perguntas e Respostas
 
 # Tecnologias e Ferramentas utilizadas :robot:
