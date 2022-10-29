@@ -14,4 +14,4 @@ Jogo Trivia - Perguntas e Respostas
 ## Como utilizar :video_game:
 [Clique Aqui](https://trivia-pi.vercel.app/)
 
-< img src="https://github.com/gustavogss/project-trivia-react-redux/blob/main/src/assets/screencapture-trivia-pi-vercel-app-2022-10-29-12_55_57.png" />
+<img src="https://github.com/gustavogss/project-trivia-react-redux/blob/main/src/assets/screencapture-trivia-pi-vercel-app-2022-10-29-12_55_57.png" />
