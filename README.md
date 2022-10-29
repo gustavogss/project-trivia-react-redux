@@ -11,5 +11,5 @@ Jogo Trivia - Perguntas e Respostas
 - Digite yarn install para instalar as dependências 
 - Depois yarn start para executar o projeto
   
-## Deploy 🏃
+## Como utilizar :video_game:
 https://trivia-pi.vercel.app/
